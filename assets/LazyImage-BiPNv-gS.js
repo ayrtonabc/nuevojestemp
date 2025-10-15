@@ -1,0 +1,1 @@
+import{j as s}from"./index-BAF5HxvS.js";const g=({src:o,alt:t,className:e="w-full h-auto object-cover",width:a,height:l})=>s.jsx("img",{src:o,alt:t,className:e,loading:"lazy",width:a,height:l,onError:n=>{const r=n.target;r.onerror=null,r.src="/placeholder.jpg"}});export{g as default};
