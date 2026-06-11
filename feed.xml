@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO Grow · Aktualności</title>
+    <link>https://jestemprogramista.pl/</link>
+    <atom:link href="https://jestemprogramista.pl/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Nowe funkcje SEO Grow, cennik i case studies. Strona internetowa w 48 godzin za 2200 zł z automatycznym SEO.</description>
+    <language>pl-PL</language>
+    <lastBuildDate>Thu, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SEO Grow: CMS z automatycznym SEO i AI</title>
+      <link>https://jestemprogramista.pl/</link>
+      <guid isPermaLink="true">https://jestemprogramista.pl/</guid>
+      <pubDate>Thu, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Profesjonalna strona w 48 godzin za 2200 zł. CMS zoptymalizowany pod SEO z AI, 6 modułów opcjonalnych: sklep, kursy, rezerwacje, menu cyfrowe, wielojęzyczność, portfolio.</description>
+    </item>
+    <item>
+      <title>Sklep internetowy z automatycznym SEO w 48 godzin</title>
+      <link>https://jestemprogramista.pl/sklep-internetowy</link>
+      <guid isPermaLink="true">https://jestemprogramista.pl/sklep-internetowy</guid>
+      <pubDate>Thu, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Sklep internetowy z Stripe, PayU, Tpay. Bez prowizji. Schema.org, PageSpeed 90+, SEO produktów automatyczne.</description>
+    </item>
+    <item>
+      <title>Strona wizytówka dla firm — gotowa w 48 godzin</title>
+      <link>https://jestemprogramista.pl/strona-wizytowka</link>
+      <guid isPermaLink="true">https://jestemprogramista.pl/strona-wizytowka</guid>
+      <pubDate>Thu, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Profesjonalna strona wizytówka z automatycznym SEO w 48 godzin za 2200 zł. CMS dla osób nietechnicznych. SEO lokalne, Schema.org, edycja po Twojej stronie.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+/* TEAM */
+Autor: Ayrton López
+Contacto: kontakt@seogrow.pl
+LinkedIn: https://www.linkedin.com/in/ayrton-lopez/
+Twitter: @jestemprogramista
+Sitio: https://jestemprogramista.pl
+
+/* SITE */
+Última actualización: 2026/06/12
+Lenguajes: polaco (pl), español (es)
+Componentes: React 18, Vite, TypeScript, Tailwind CSS, Framer Motion
+Estándares: HTML5, CSS3, ES2022
+Hosting: Vercel Edge Network
+
+/* THANKS */
+SEO Grow - https://seogrow.pl
+Lighthouse - https://developers.google.com/web/tools/lighthouse
+Schema.org - https://schema.org
+Open Graph - https://ogp.me
+W3C Markup Validation - https://validator.w3.org

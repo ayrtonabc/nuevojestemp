@@ -1,0 +1,48 @@
+{
+  "name": "JestemProgramista.pl · SEO Grow",
+  "short_name": "SEO Grow",
+  "description": "CMS z automatycznym SEO i AI. Strona w 48 godzin za 2200 zł.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF3B30",
+  "lang": "pl",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "developer"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Strona w 48 godzin",
+      "short_name": "Zamów",
+      "url": "https://seogrow.pl",
+      "description": "Zamów stronę w SEO Grow"
+    },
+    {
+      "name": "Kontakt",
+      "short_name": "Kontakt",
+      "url": "/#contacto",
+      "description": "Skontaktuj się z nami"
+    }
+  ]
+}

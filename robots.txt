@@ -1,13 +1,13 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://jestemprogramista.pl/sitemap.xml
-
-# Crawl-delay for better server performance
+# Crawl-delay para mejor performance del servidor
 Crawl-delay: 1
 
-# Allow all major search engines
+# Sitemaps
+Sitemap: https://jestemprogramista.pl/sitemap.xml
+
+# Permitir todos los buscadores principales
 User-agent: Googlebot
 Allow: /
 
@@ -20,7 +20,13 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
-# Block unwanted bots
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Bloquear bots no deseados (ahorra crawl budget)
 User-agent: AhrefsBot
 Disallow: /
 
@@ -29,3 +35,12 @@ Disallow: /
 
 User-agent: SemrushBot
 Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# Host canónico
+Host: https://jestemprogramista.pl
